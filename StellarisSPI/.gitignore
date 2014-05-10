@@ -1,0 +1,9 @@
+/Debug/*
+!/Debug/StellarisSPI.elf
+!/Debug/StellarisSPI.hex
+/Release/*
+!/Release/StellarisSPI.elf
+!/Release/StellarisSPI.hex
+
+
+
