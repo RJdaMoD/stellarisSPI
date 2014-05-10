@@ -89,7 +89,7 @@ The code comes as an eclipse project and was built using the TI driverlib
 and the summon arm toolchain. Startup code was taken from
 	https://github.com/mroy/stellaris-launchpad-template-gcc
 Images are also included as hex and elf, which may be flashed on the
-launchpad using openocd or lm4flash. Debug contains iamge with full debug
+launchpad using openocd or lm4flash. Debug contains image with full debug
 information and no optimization, whereas Release image has no debug info
 and full optimization.
 
